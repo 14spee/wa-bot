@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @nicoowrldx
+› Base Ori @nicoowrldx
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['4915678366725','491794336281','4915678377072'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['4915678366725'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '4915678366725' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -33,11 +33,11 @@ global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://youtube.com/channel/nicoowrldx'
+global.ig = 'https://instagram.com/nicoowrldx'
+global.mygc = 'https://chat.whatsapp.com/GHiNehxuleW6Rqh9wxNhND'
+global.myweb = 'nicoowrldx.com'
+global.email = 'business.nicoowrldx@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
